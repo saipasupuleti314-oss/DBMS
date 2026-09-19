@@ -154,7 +154,6 @@ CREATE TABLE Players
     Points INT
 );
 
--- Cricket Players
 INSERT INTO Players VALUES
 (1, 'Rahul', 'Cricket', 'Batsman', 24, 1500),
 (2, 'Mahesh', 'Cricket', 'Batsman', 27, 1200),
